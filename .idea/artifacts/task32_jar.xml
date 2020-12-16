@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task32:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task32_jar</output-path>
+    <root id="archive" name="task32.jar">
+      <element id="module-output" name="task32" />
+    </root>
+  </artifact>
+</component>
